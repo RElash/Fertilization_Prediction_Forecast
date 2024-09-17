@@ -5,4 +5,5 @@ The code provided implements a custom function for plotting and stacking data, w
 
 The results presented in the figure below illustrate a comparison of the three models' performance in predicting soil fertilization levels during the first quarter of the season:
 
-![image](https://github.com/user-attachments/assets/6d7cbd58-acfe-40b2-bf83-acfac49aaee7)
+![image](https://github.com/user-attachments/assets/ea1534de-c26d-402e-830c-15b663b6203b)
+
